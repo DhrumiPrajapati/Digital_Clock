@@ -1,4 +1,4 @@
-# Digital_Clock
+# Digital Clock
 **(For Frontend Beginners)** </br> </br>
 I have built this project using basic frontend technologies to display the current time, in the form of digital clock(in numerical format).
 
